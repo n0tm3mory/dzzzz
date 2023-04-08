@@ -1,0 +1,1 @@
+print("qq vadym sergiyovuch")
